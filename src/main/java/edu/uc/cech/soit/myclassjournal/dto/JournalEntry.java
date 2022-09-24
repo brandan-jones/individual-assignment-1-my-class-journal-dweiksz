@@ -7,6 +7,5 @@ import java.util.List;
     class JournalEntry {
         private String notes;
         private String date;
-        private List<JournalEntry> journalEntries;
     }
 
